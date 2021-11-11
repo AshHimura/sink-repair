@@ -1,0 +1,21 @@
+
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    margin-top: 0.7em;
+    font-size: 1.7em;
+}
+
+.button {
+    margin-top: 2em;
+    background: #eb0808;
+    color:black;
+}
+
+.request__delete {
+    background: #0000FF;   
+    color:whitesmoke;
+}
